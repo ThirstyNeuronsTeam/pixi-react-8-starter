@@ -8,8 +8,7 @@ extend({
 });
 
 const App = () => {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const drawCallback = useCallback((graphics: any) => {
+  const drawCallback = useCallback((graphics: Graphics) => {
     graphics.clear();
     graphics.setFillStyle({ color: "red" });
     graphics.rect(0, 0, 100, 100);
