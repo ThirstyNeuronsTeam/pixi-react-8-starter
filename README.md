@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Vite Pixi React v8
+  Simple Vite Pixi React v8 Starter Kit
 </h1>
 
 <p align="center">
