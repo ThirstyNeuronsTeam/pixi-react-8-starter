@@ -43,6 +43,11 @@ To add to an existing React application, just install the dependencies:
 npm install
 ```
 
+#### To run in development mode
+```bash
+npm run dev
+```
+
 #### Pixie React Usage
 ```jsx
 import {
