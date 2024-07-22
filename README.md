@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Pixi React
+  Vite Pixi React v8
 </h1>
 
 <p align="center">
