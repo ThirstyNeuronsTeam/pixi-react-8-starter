@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/react.svg" alt="pixi-react" width="310" />
+  <img src="https://github.com/pixijs/pixi-react/blob/beta/.github/react.svg" alt="pixi-react" width="310" />
 </p>
 
 <h1 align="center">
